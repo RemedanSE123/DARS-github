@@ -1,0 +1,1064 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<title>DARS</title>
+
+
+	  <link rel="icon" href="image/288962599_408601677857494_1395590741157851249_n.jpg" type="image/x-icon">
+	  <link rel="apple-touch-icon" sizes="180x180" href="image/288962599_408601677857494_1395590741157851249_n.jpg">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/all.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/jquery.webui-popover.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/h-2-carousel.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/jquery.webui-popover.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/nice-select.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/slick-theme.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/slick.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/style.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/new-style.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/responsive.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/summernote-0.8.20-dist/summernote-lite.min.css">
+    <link rel="stylesheet" href="assets/global/tagify/tagify.css">
+    <link rel="stylesheet" href="assets/global/toastr/toastr.css">
+    <link rel="stylesheet" href="assets/frontend/default-new/css/custom.css">
+    <script src="assets/global/js/jquery-3.6.1.min.js"></script>
+	              <style type="text/css">
+			          </style>
+
+</head>
+
+
+
+<body class="">
+	
+
+  <!-- Include the navbar -->
+  <?php include 'header.php'; ?>
+
+
+<link rel="stylesheet" type="text/css" href="assets/frontend/eu-cookie/purecookie.css" async />
+
+
+<!---------- Banner Section Start ---------------->
+<section class="h-1-banner h-2-banner mt-5" >
+    <div class="container" >
+        <div class="h-2-banner-text" style="margin-top: 50px;">
+            <div class="row" >
+                <div class="col-lg-2"></div>
+                <div class="col-lg-8" style="margin-top: 70px;">
+                                        <h1>
+                                            Digital Address Registration  
+                                            <br> <span>System</span>                    </h1>
+                    <p style="font-size: 17px;">Welcome to the Digital Address Registration System (DARS),
+                     your ultimate solution for seamless address management and navigation across Ethiopia.
+                      Designed with the latest technology, DARS offers an intuitive and interactive platform
+                       that meets  to all your address registration needs, from regions down to house numbers.</p>
+
+                    <div class="h-2-search-bar">
+                         <form action="#" method="get">
+                            <input class="form-control" type="text" placeholder="What do you want to know about DARS" name="query">
+                            <button class="search-btn" type="submit"><i class="fa fa-search"></i>Search</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                </div>
+            </div>
+            
+
+
+
+
+
+
+
+
+
+            
+        </div>  
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="world-class mb-0">
+    <div class="container">
+        <div class="world-class-content">
+            <div class="row">
+                <div class="col-lg-3">
+                    <h1>
+                        <span>We</span> provide  Address Information                        <span>.</span>
+                    </h1>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-4">
+                    <div class="world-cls-card">
+                        <div class="image-1">
+                            <img loading="lazy" src="image/location-pin.png" alt="">
+                        </div>
+                                                <h4>1000+ Registered Address
+                                                    </h4>
+                        <h6>From Region upto House Number</h6>
+                    </div>  
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-4">
+                    <div class="world-cls-card">
+                        <div class="image-2">
+                            <img loading="lazy" src="image/5151548_51537.jpg" alt="">
+                        </div>
+                        <h4>Interactive Maps
+                            
+                            </h4>
+                        <h6>Maps That Show Borders Of Diffrent Regions</h6>
+                    </div>                        
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-4 col-4">
+                    <div class="world-cls-card">
+                        <div class="image-3">
+                            <img loading="lazy" src="image/problem-solving.png" alt="">
+                        </div>
+                        <h4>Users Contribution
+                        </h4>
+                    <h6>Users can also contribute their address</h6>
+                    </div>     
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!---------- Banner Section End ---------------->
+
+
+
+
+
+
+<!---------- Top courses Section start --------------->
+<section class="courses grid-view-body pt-50 pb-4">
+    <div class="container">
+        <h1><span>What Can You Do?</span></h1>
+        <p>These are diffrent things you can do in this DARS like .</p>
+        
+        
+        
+        
+        <div class="courses-card">
+            <div class="course-group-slider">
+                                 
+                                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="single-popup-course">
+                        <a href="#" id="top_course_13" class="checkPropagation courses-card-body">
+                            <div class="courses-card-image">
+                                <img loading="lazy" src="image/aaa.svg">
+                               
+                             
+                            </div>
+                            
+                            
+                            
+                            
+                            
+                            <div class="courses-text">
+                                <h5 class="mb-2"> Address Registration</h5>
+                               
+                                <p class="ellipsis-line-2">Easily register and manage addresses at all levels, ensuring complete and precise address information:</p>
+                               
+                             </div>
+                        </a>
+
+
+
+
+                        <div id="top_course_feature_13" class="course-popover-content">
+                                                           
+                                                        <div class="course-title">
+                                 <a href="#">Comprehensive Address Registration</a>
+                            </div>
+                            <div class="course-meta">
+                                                                  
+                                                               
+                             </div>
+                            <div class="course-subtitle">
+                            Easily register and manage addresses from the region, zone, district (woreda), sub-district (kebele), neighborhood (mender), to the house number.
+                                
+                                </div>
+                            
+                            <ul class="will-learn">
+                            <li><strong>Region</strong>: Start by selecting the region.</li>
+      <li><strong>Zone</strong>: Drill down into zones within the region.</li>
+      <li><strong>District (Woreda)</strong>: Further specify by choosing the district.</li>
+      <li><strong>Sub-District (Kebele)</strong>: Narrow it down to the sub-district.</li>
+      <li><strong>Neighborhood (Mender)</strong>: Identify the specific neighborhood.</li>
+      <li><strong>House Number</strong>: Finally, enter the exact house number.</li>
+    </ul>
+                           
+                            <script>
+                                $(document).ready(function(){
+                                    $('#top_course_13').webuiPopover({
+                                        url:'#top_course_feature_13',
+                                        trigger:'hover',
+                                        animation:'pop',
+                                        cache:false,
+                                        multi:true,
+                                        direction:'rtl', 
+                                        placement:'horizontal',
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+                                    <div class="single-popup-course">
+                        <a href="#" id="top_course_16" class="checkPropagation courses-card-body">
+                            <div class="courses-card-image">
+                                <img loading="lazy" src="image/maa.jpg">
+                               
+                                
+                            </div>
+                           
+                           
+                           
+                           
+                            <div class="courses-text">
+                                <h5 class="mb-2">Interactive Maps</h5>
+                               
+                                <p class="ellipsis-line-2"> Explore Ethiopia like never before with our detailed and interactive maps:
+   </p>
+                               
+                             </div>
+                        </a>
+
+
+
+
+                        <div id="top_course_feature_16" class="course-popover-content">
+                                                           
+                                                        <div class="course-title">
+                                 <a href="home/course/complete-guitar-lessons-system/16.html">Interactive Maps</a>
+                            </div>
+                      
+                            <div class="course-subtitle">
+                            Explore Ethiopia like never before with our detailed and interactive maps:
+                        
+                                   </div>
+                           
+                            <ul class="will-learn">
+                            <li><strong>Zoom In and Out</strong>: Click on a region to zoom in and explore its subdivisions.</li>
+      <li><strong>Layered Navigation</strong>: Navigate through regions, zones, districts, kebeles, menders, and house numbers seamlessly.</li>
+      <li><strong>Detailed Information</strong>: Access comprehensive details about each location with just a click.</li>
+      </ul>
+                           
+                            <script>
+                                $(document).ready(function(){
+                                    $('#top_course_16').webuiPopover({
+                                        url:'#top_course_feature_16',
+                                        trigger:'hover',
+                                        animation:'pop',
+                                        cache:false,
+                                        multi:true,
+                                        direction:'rtl', 
+                                        placement:'horizontal',
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+
+
+                                    <div class="single-popup-course">
+                        <a href="#" id="top_course_17" class="checkPropagation courses-card-body">
+                            <div class="courses-card-image">
+                                <img loading="lazy" src="image/taa.svg">
+                              
+                               
+                            </div>
+                           
+                           
+                           
+                           
+                           
+                            <div class="courses-text">
+                                <h5 class="mb-2">Tourist Attraction Highlights</h5>
+                              
+                                <p class="ellipsis-line-2">Easily register and manage addresses at all levels, ensuring complete and precise address information:</p>
+                               
+                             </div>
+                        </a>
+
+
+
+
+                        <div id="top_course_feature_17" class="course-popover-content">
+                                                             <div class="course-title">
+                                 <a href="home/course/complete-blender-creator-learn-3d-modelling/17.html">Tourist Attraction Highlights </a>
+                            </div>
+                           
+                            <div class="course-subtitle">
+                            Uncover the beauty and heritage of Ethiopia with our curated tourist attraction highlights:
+   
+                                
+                                </div>
+                           
+                            <ul class="will-learn">
+                            <li><strong>Markers and Descriptions</strong>: Find key tourist spots marked on the map with detailed descriptions.</li>
+      <li><strong>Must-Visit Places</strong>: Discover popular and lesser-known attractions to enrich your travel experience.</li>
+      <li><strong>Cultural Insights</strong>: Learn about the history, culture, and significance of various sites.</li>
+    </ul>
+                           
+                            <script>
+                                $(document).ready(function(){
+                                    $('#top_course_17').webuiPopover({
+                                        url:'#top_course_feature_17',
+                                        trigger:'hover',
+                                        animation:'pop',
+                                        cache:false,
+                                        multi:true,
+                                        direction:'rtl', 
+                                        placement:'horizontal',
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+
+
+                                    <div class="single-popup-course">
+                        <a href="#" id="top_course_18" class="checkPropagation courses-card-body">
+                            <div class="courses-card-image">
+                                <img loading="lazy" src="image/b.svg">
+                            
+                               
+                            </div>
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                            <div class="courses-text">
+                                <h5 class="mb-2">Blogs</h5>
+                               
+                                <p class="ellipsis-line-2"> Stay connected and informed with our engaging and informative blog section:
+   </p>
+                               
+                             </div>
+                        </a>
+
+
+
+
+                        <div id="top_course_feature_18" class="course-popover-content">
+                                                           
+                                                        <div class="course-title">
+                                 <a href="#">Blogs</a>
+                            </div>
+                          
+                            <div class="course-subtitle">
+                            Stay connected and informed with our engaging and informative blog section:
+   
+                                
+                                
+                                </div>
+                          
+                            <ul class="will-learn">
+                            <li><strong>Latest News</strong>: Keep up with the latest developments and news related to Ethiopia.</li>
+      <li><strong>Travel Guides</strong>: Get practical travel tips and guides to make your trips smoother.</li>
+      <li><strong>Cultural Insights</strong>: Read about Ethiopian culture, traditions, and lifestyle.</li>
+      <li><strong>User Contributions</strong>: Engage with stories and insights shared by fellow users.</li>
+   </ul>
+                      
+                            <script>
+                                $(document).ready(function(){
+                                    $('#top_course_18').webuiPopover({
+                                        url:'#top_course_feature_18',
+                                        trigger:'hover',
+                                        animation:'pop',
+                                        cache:false,
+                                        multi:true,
+                                        direction:'rtl', 
+                                        placement:'horizontal',
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+                                    
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                           
+                            
+                           
+                           
+                           
+                            
+                            
+        </div>
+    </div>
+</section>
+<!---------- Top courses Section End --------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------  Motivetional Speech Start ---------------->
+<section class="expert-instructor top-categories pb-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3"></div>
+      <div class="col-lg-6">
+        <h1 class="text-center mt-4">Contribution Guidelines</h1>
+        <br><br><br>
+        
+      </div>
+      <div class="col-lg-3"></div>
+    </div>
+    <ul class="speech-items">
+                <li>
+            <div class="speech-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="speech-item-img">
+                            <img loading="lazy" src="image/a.svg" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="speech-item-content">
+                            <p class="no">1</p>
+                            <div class="inner">
+                                <h5 class="title">
+                                    Accurate information                                </h5>
+                                    <ul style="list-style-type: disc; padding-left: 20px; margin-bottom: 20px;">
+  <li style="margin-bottom: -50px;">Provide proof of the address, such as a map or other supporting documentation.</li>
+  <li style="margin-bottom: -50px;">We do not recommend adding region and zone information. Instead, focus on providing the woreda, kebele, mender, and house number.</li>
+  <li style="margin-bottom: 10px;">Every piece of information you add will be checked by the system administrator for accuracy.</li>
+</ul>
+
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+                <li>
+            <div class="speech-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="speech-item-img">
+                            <img loading="lazy" src="image/r.jpg" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="speech-item-content">
+                            <p class="no">2</p>
+                            <div class="inner">
+                            <h4 class="title">Report Issues</h4>
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li style="margin-bottom: -50px;">Report Issues: Found a bug or an error? Report it through our feedback system.</li>
+  <li style="margin-bottom: -50px;">Suggest Features: Have an idea for a new feature? Let us know!</li>
+  <li style="margin-bottom: -50px;">Share Your Knowledge: Write blogs about your experiences, travel stories, or cultural insights.</li>
+  <li style="margin-bottom: -50px;">Spread the Word: Share DARS with your friends, family, and community to help others benefit from our system.</li>
+  <li style="margin-bottom: -10px;">Collaborate: If you're a developer or designer, join our team to enhance DARS further.</li>
+</ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+                <li>
+            <div class="speech-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="speech-item-img">
+                            <img loading="lazy" src="image/j.jpg" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="speech-item-content">
+                            <p class="no">3</p>
+                            <div class="inner">
+                                <h4 class="title">
+                                Join Us                                 </h4>
+                                <p class="info">
+                                Be a part of the digital transformation journey in Ethiopia. With DARS, we aim to make address registration, navigation, and information sharing easier and more accessible for everyone. Join us in building a smarter, more connected Ethiopia.   </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+
+
+
+        <li>
+            <div class="speech-item">
+                <div class="row align-items-center">
+                    <div class="col-lg-4 col-md-5">
+                        <div class="speech-item-img">
+                            <img loading="lazy" src="image/m1.jpg" alt="" />
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-7">
+                        <div class="speech-item-content">
+                            <p class="no">4</p>
+                            <div class="inner">
+                                <h4 class="title">
+                                Motivation                              </h4>
+                                <p class="info">
+                                The motivation behind DARS is to simplify and digitalize address management in Ethiopia. By providing a comprehensive and interactive platform, we aim to enhance navigation, improve logistics, and boost tourism. DARS bridges the gap between traditional address systems and modern digital solutions, ensuring everyone can easily find and register addresses.  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+  </div>
+</section>
+<!---------  Motivetional Speech end ---------------->
+
+<!---------- Questions Section Start  -------------->
+<section class="faq">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2"></div>
+            <div class="col-lg-8">
+                <h1 class="text-center mt-4">Frequently asked questions</h1>
+                <p class="text-center mt-4 mb-5">Have something to know? Check here if you have any questions about us.</p>
+            </div>
+            <div class="col-lg-2"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 text-center pb-5">
+                <img loading="lazy" width="80%" src="assets/frontend/default-new/image/faq2.jpg">
+            </div>
+            <div class="col-md-6">
+                <div class="faq-accrodion mb-0">
+                    <div class="accordion" id="accordionFaq">
+                                                                                <div class="accordion-item">
+                              <h2 class="accordion-header" id="faqItemHeading0">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItempanel0" aria-expanded="true" aria-controls="faqItempanel0">
+                                What is the use of DARS?                                </button>
+                              </h2>
+                              <div id="faqItempanel0" class="accordion-collapse collapse" aria-labelledby="faqItemHeading0"  data-bs-parent="#accordionFaq">
+                                <div class="accordion-body">
+                                    <p>The Digital Address Registration System (DARS) is designed to provide a seamless solution for address management and navigation in Ethiopia. It allows users to register, search, and manage addresses efficiently. Additionally, DARS offers interactive maps, highlights tourist attractions, and features insightful blogs to enhance your understanding of Ethiopian geography and culture.</p>
+                                </div>
+                              </div>
+                            </div>
+                                                                                <div class="accordion-item">
+                              <h2 class="accordion-header" id="faqItemHeading2">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItempanel2" aria-expanded="true" aria-controls="faqItempanel2">
+                                Can we add our address?                             </button>
+                              </h2>
+                              <div id="faqItempanel2" class="accordion-collapse collapse" aria-labelledby="faqItemHeading2"  data-bs-parent="#accordionFaq">
+                                <div class="accordion-body">
+                                    <p>Yes, you can add your address to DARS. Simply provide accurate information, including proof such as a map or supporting documentation. Focus on detailing the woreda, kebele, mender, and house number, as region and zone information is not recommended. Every piece of information will be verified by our system administrator for accuracy.</p>
+                                </div>
+                              </div>
+                            </div>
+                                                                                <div class="accordion-item">
+                              <h2 class="accordion-header" id="faqItemHeading3">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItempanel3" aria-expanded="true" aria-controls="faqItempanel3">
+                                How many addresses are registered?                               </button>
+                              </h2>
+                              <div id="faqItempanel3" class="accordion-collapse collapse" aria-labelledby="faqItemHeading3"  data-bs-parent="#accordionFaq">
+                                <div class="accordion-body">
+                                Over 1000+ addresses have been successfully registered in our system, covering various regions, zones, woredas, kebeles, menders, and house numbers across Ethiopia.
+
+</p>
+                                </div>
+                              </div>
+                            </div>
+                                                                                <div class="accordion-item">
+                              <h2 class="accordion-header" id="faqItemHeading4">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqItempanel4" aria-expanded="true" aria-controls="faqItempanel4">
+                                Is DARS compatible with mobile devices?                               </button>
+                              </h2>
+                              <div id="faqItempanel4" class="accordion-collapse collapse" aria-labelledby="faqItemHeading4"  data-bs-parent="#accordionFaq">
+                                <div class="accordion-body">
+                                    <p>Yes, DARS is designed to be mobile-friendly, allowing you to access the platform on-the-go with ease.</p>
+                                </div>
+                              </div>
+                            </div>
+                                                                        </div>
+                                            <a href="#" class="btn btn-primary mt-5">See More</a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!---------- Questions Section End  -------------->
+
+
+
+
+
+
+<!--------- footer Section Start--------------->
+
+
+  <!-- Include the navbar -->
+  <?php include 'footer.php'; ?>
+
+<!--------- footer Section End--------------->
+
+<!-- PAYMENT MODAL -->
+<!-- Modal -->
+
+
+<script src="assets/frontend/default-new/js/bootstrap.bundle.min.js"></script>
+<script src="assets/frontend/default-new/js/berli.js"></script>
+<script src="assets/frontend/default-new/js/course.js"></script>
+<script src="assets/frontend/default-new/js/jquery.meanmenu.min.js"></script>
+<script src="assets/frontend/default-new/js/jquery.nice-select.min.js"></script>
+<script src="assets/frontend/default-new/js/jquery.webui-popover.min.js"></script>
+<script src="assets/frontend/default-new/js/owl.carousel.min.js"></script>
+<script src="assets/frontend/default-new/js/script-2.js"></script>
+<script src="assets/frontend/default-new/js/slick.min.js"></script>
+<script src="assets/frontend/default-new/js/venobox.min.js"></script>
+<script src="assets/frontend/default-new/js/script.js"></script>
+<script src="assets/frontend/default-new/summernote-0.8.20-dist/summernote-lite.min.js"></script>
+
+
+
+
+<script src="assets/global/toastr/toastr.min.js"></script>
+<script src="assets/global/jquery-form/jquery.form.min.js"></script>
+<script src="assets/global/tagify/jquery.tagify.js"></script>
+
+<!-- SHOW TOASTR NOTIFIVATION -->
+
+
+<script type="text/javascript">
+function showAjaxModal(url, title, modalType)
+{
+    $('#modal_ajax .modal-dialog').removeClass('modal-sm');
+    $('#modal_ajax .modal-dialog').removeClass('modal-md');
+    $('#modal_ajax .modal-dialog').removeClass('modal-lg');
+    $('#modal_ajax .modal-dialog').removeClass('modal-xl');
+    $('#modal_ajax .modal-dialog').removeClass('modal-fullscreen');
+
+    if(modalType){
+        $('#modal_ajax .modal-dialog').addClass('modal-'+modalType);
+    }
+    // SHOWING AJAX PRELOADER IMAGE
+    jQuery('#modal_ajax .modal-body').html('<div class="w-100 text-center pt-5"><img loading="lazy" class="mt-5 mb-5" width="80px" src="assets/global/gif/page-loader-2.gif"></div>');
+
+    // LOADING THE AJAX MODAL
+    jQuery('#modal_ajax').modal('show', {backdrop: 'true'});
+
+    // SHOW AJAX RESPONSE ON REQUEST SUCCESS
+    $.ajax({
+        url: url,
+        success: function(response)
+        {
+            jQuery('#modal_ajax .title').html(title);
+            jQuery('#modal_ajax .modal-body').html(response);
+        }
+    });
+}
+
+function lesson_preview(url, title){
+    // SHOWING AJAX PRELOADER IMAGE
+    jQuery('#lesson_preview .title').html(title);
+    jQuery('#lesson_preview .modal-body').html('<div class="w-100 text-center pt-5"><img loading="lazy" class="mt-5 mb-5" width="80px" src="assets/global/gif/page-loader-2.gif"></div>');
+
+    // LOADING THE AJAX MODAL
+    jQuery('#lesson_preview').modal('show', {backdrop: 'true'});
+
+    // SHOW AJAX RESPONSE ON REQUEST SUCCESS
+    $.ajax({
+        url: url,
+        success: function(response)
+        {
+            jQuery('#lesson_preview .modal-body').html(response);
+        }
+    });
+}
+</script>
+
+<!-- (Ajax Modal)-->
+<div class="modal fade" id="modal_ajax">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="title text-white"></h5>
+                <button type="button" class="btn btn-secondary ms-auto py-0 px-2" data-bs-dismiss="modal" aria-hidden="true">&times;</button>
+            </div>
+            <div class="modal-body" style="overflow:auto;">
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default text-white" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="lesson_preview" tabindex="-1" aria-labelledby="previewModalLabel" aria-hidden="true" data-bs-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="title"></h5>
+                <button type="button" class="btn btn-secondary ms-auto py-0 px-2" data-bs-dismiss="modal" aria-hidden="true" onclick="player.pause();">&times;</button>
+            </div>
+            <div class="modal-body" style="overflow:auto;">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+function confirm_modal(delete_url)
+{
+    jQuery('#modal-4').modal('show', {backdrop: 'static'});
+    document.getElementById('delete_link').setAttribute('href' , delete_url);
+}
+</script>
+
+<!-- (Normal Modal)-->
+<div class="modal fade" id="modal-4">
+    <div class="modal-dialog">
+        <div class="modal-content" style="margin-top:100px;">
+
+            <div class="modal-header">
+                <h5 class="modal-title text-center">Emin misin ?</h5>
+                <button type="button" class="btn btn-outline-secondary px-1 py-0" data-bs-dismiss="modal" aria-hidden="true"><i class="fas fa-times-circle"></i></button>
+            </div>
+
+
+            <div class="modal-footer" style="margin:0px; border-top:0px; text-align:center;">
+                <a href="academy.html" class="btn btn-danger btn-yes" id="delete_link">Evet</a>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">HAYIR</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+function async_modal() {
+    const asyncModal = new Promise(function(resolve, reject){
+        $('#modal-4').modal('show');
+        $('#modal-4 .btn-yes').click(function(){
+            resolve(true);
+        });
+        $('#modal-4 .btn-cancel').click(function(){
+            resolve(false);
+        });
+    });
+    return asyncModal;
+}
+</script>
+<script type="text/javascript">
+  $(document).ready(function() {
+      });
+</script>
+
+
+<!-- Google analytics -->
+<!-- Ended Google analytics -->
+
+<!-- Meta pixel -->
+<!-- Ended Meta pixel -->
+
+
+<script type="text/javascript">
+  function redirectTo(url, event){
+    $(location).attr('href', url);
+  }
+
+  function actionTo(url, type = "get", event) {
+    //Start prepare get url to post value
+      var jsonFormate = '{}';
+      if(type == 'post'){
+        let pieces = url.split(/[\s?]+/);
+        let lastString = pieces[pieces.length - 1];
+        jsonFormate = '{"'+lastString.replace('=', '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","').replace("=", '":"').replace("&", '","')+'"}';
+      }
+      jsonFormate = JSON.parse(jsonFormate);
+    //End prepare get url to post value
+    $.ajax({
+      type: type,
+      url: url,
+      data: jsonFormate,
+      success: function(response) {
+        distributeServerResponse(response);
+      }
+    });
+
+  }
+
+  //Server response distribute
+  function distributeServerResponse(response){
+    try {
+      JSON.parse(response);
+      var isValidJson = true;
+    } catch (error) {
+      var isValidJson = false;
+    }
+    if (isValidJson) {
+      response = JSON.parse(response);
+      //For reload after submission
+      if(typeof response.reload != "undefined" && response.reload != 0){
+        location.reload();
+      }
+
+      //For redirect to another url
+      if(typeof response.redirectTo != "undefined" && response.redirectTo != 0){
+        $(location).attr('href', response.redirectTo);
+      }
+
+      //for show a element
+      if(typeof response.show != "undefined" && response.show != 0 && $(response.show).length){
+        $(response.show).css('display', 'inline-block');
+      }
+      //for hide a element
+      if(typeof response.hide != "undefined" && response.hide != 0 && $(response.hide).length){
+        $(response.hide).hide();
+      }
+      //for fade in a element
+      if(typeof response.fadeIn != "undefined" && response.fadeIn != 0 && $(response.fadeIn).length){
+        $(response.fadeIn).fadeIn();
+      }
+      //for fade out a element
+      if(typeof response.fadeOut != "undefined" && response.fadeOut != 0 && $(response.fadeOut).length){
+        $(response.fadeOut).fadeOut();
+      }
+
+      //For adding a class
+      if(typeof response.addClass != "undefined" && response.addClass != 0 && $(response.addClass.elem).length){
+        $(response.addClass.elem).addClass(response.addClass.content);
+      }
+      //For remove a class
+      if(typeof response.removeClass != "undefined" && response.removeClass != 0 && $(response.removeClass.elem).length){
+        $(response.removeClass.elem).removeClass(response.removeClass.content);
+      }
+      //For toggle a class
+      if(typeof response.toggleClass != "undefined" && response.toggleClass != 0 && $(response.toggleClass.elem).length){
+        $(response.toggleClass.elem).toggleClass(response.toggleClass.content);
+      }
+
+      //For showing error message
+      if(typeof response.error != "undefined" && response.error != 0){
+        toastr.error(response.error);
+      }
+      //For showing success message
+      if(typeof response.success != "undefined" && response.success != 0){
+        toastr.success(response.success);
+      }
+
+      //For replace texts in a specific element
+      if(typeof response.text != "undefined" && response.text != 0 && $(response.text.elem).length){
+        $(response.text.elem).text(response.text.content);
+      }
+      //For replace elements in a specific element
+      if(typeof response.html != "undefined" && response.html != 0 && $(response.html.elem).length){
+        $(response.html.elem).html(response.html.content);
+      }
+      //For replace elements in a specific element
+      if(typeof response.load != "undefined" && response.load != 0 && $(response.load.elem).length){
+        $(response.load.elem).html(response.load.content);
+      }
+      //For appending elements
+      if(typeof response.append != "undefined" && response.append != 0 && $(response.append.elem).length){
+        $(response.append.elem).append(response.append.content);
+      }
+      //Fo prepending elements
+      if(typeof response.prepend != "undefined" && response.prepend != 0 && $(response.prepend.elem).length){
+        $(response.prepend.elem).prepend(response.prepend.content);
+      }
+      //For appending elements after a element
+      if(typeof response.after != "undefined" && response.after != 0 && $(response.after.elem).length){
+        $(response.after.elem).after(response.after.content);
+      }
+
+      // Update the browser URL and add a new entry to the history
+      if(typeof response.pushState != "undefined" && response.pushState != 0){
+        history.pushState({}, response.pushState.title, response.pushState.url);
+      }
+
+      if(typeof response.script != "undefined" && response.script != 0){
+        script
+      }
+    }
+  }
+
+</script><script type="text/javascript">
+	$(function () {
+
+		if($('[data-bs-toggle="tooltip"]').length > 0){
+			$('[data-bs-toggle="tooltip"]').tooltip();
+		}
+
+		if($('.tagify').length > 0){
+			$('.tagify:not(.initialized)').tagify();
+			$('.tagify:not(.initialized)').addClass('initialized');
+		}
+
+		$('a[href="#"]').on('click', function(event){
+	      event.preventDefault();
+	    });
+
+	    if($('.text_editor:not(.initialized)').length){
+			$('.text_editor:not(.initialized)').summernote({
+				height: 180,                 // set editor height
+				minHeight: null,             // set minimum height of editor
+				maxHeight: null,             // set maximum height of editor
+				focus: true                  // set focus to editable area after initializing summernote
+			});
+			$('.text_editor:not(.initialized)').addClass('initialized');
+		}
+
+
+		//When need to add a wishlist button inside a anchor tag
+		$('.checkPropagation').on('click', function(event){
+			var action = $(this).attr('action');
+			var onclickFunction = $(this).attr('onclick');
+			var onChange = $(this).attr('onchange');
+			var tag = $(this).prop("tagName").toLowerCase();
+			console.log(tag);
+			if(tag != 'a' && action){
+				$(location).attr('href', $(this).attr('action'));
+				return false;
+			}else if(onclickFunction){
+				if(onclickFunction){
+					onclickFunction;					
+				}
+				return false;
+			}else if(tag == 'a'){
+				return true;
+			}
+		});
+
+		//Ajax for submission start
+		var formElement;
+		if($('.ajaxForm:not(.initialized)').length > 0){
+			$('.ajaxForm:not(.initialized)').ajaxForm({
+				beforeSend: function(data, form) {
+					var formElement = $(form);
+				},
+				uploadProgress: function(event, position, total, percentComplete) {
+				},
+				complete: function(xhr) {
+
+					setTimeout(function(){
+						distributeServerResponse(xhr.responseText);
+					}, 400);
+
+					if($('.ajaxForm.resetable').length > 0){
+						$('.ajaxForm.resetable')[0].reset();
+					}
+				},
+				error: function(e)
+				{
+					console.log(e);
+				}
+			});
+			$('.ajaxForm:not(.initialized)').addClass('initialized');
+		}
+	});
+
+</script>
+
+
+    
+<!-- Modal -->
+
+<link rel="stylesheet" href="svg/style.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css" integrity="sha512-vebUliqxrVkBy3gucMhClmyQP9On/HAWQdKDXRaAlb/FKuTbxkjPKUyqVOxAcGwFDka79eTF+YXwfke1h3/wfg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<div class="demo-option-container">
+<div class="creativeitem__toolbar">
+    <div class="inner">
+        
+        <!-- THE FIRST <a> TAG SLIDES A RIGHT NAVIGATION MENU -->
+       <a class="hint--bounce hint--left hint--black primary-color-hover-important toolbox-icons" target="_blank" id="product_doc_url" href="#" aria-label="Support Center">
+           <!-- <i class="fas fa-file-alt" style="color : #2296f3";></i> -->
+           <img class="portable-link-svg" src="image/home.png">
+           <div class="toolbox-tooltip" style="right: 55px; margin-top: 7.3px;">Documentation</div>
+       </a>
+
+       <a class="hint--bounce hint--left hint--black primary-color-hover-important toolbox-icons" target="_blank" id="product_video_url" href="#" aria-label="Support Center">
+        <!-- <i class="fab fa-youtube" style="color : #ed1b25";></i> -->
+        <img class="portable-link-svg" src="image/database.png">
+        <div class="toolbox-tooltip" style="right: 55px;  margin-top: 7.3px;">Video tutorial</div>
+      </a>
+       <a class="hint--bounce hint--left hint--black primary-color-hover-important toolbox-icons" target="_blank" href="#" aria-label="Support Center">
+        <!-- <i class="fas fa-phone" style="color : #7c67e0"; ></i> -->
+        <img class="portable-link-svg" src="image/map.png">
+        <div class="toolbox-tooltip" style="right: 55px; margin-top: 7px;">Customer support</div> 
+      </a>
+
+
+        <a class="hint--bounce hint--left hint--black primary-color-hover-important toolbox-icons" href="#" target="_blank" aria-label="Contact Us">
+            <!-- <i class="fab fa-facebook-messenger" style="color : #0B75FA";></i> -->
+            <img class="portable-link-svg" src="svg/live-chat.svg">
+            <div class="toolbox-tooltip" style="right: 55px; margin-top: 7px;">Live chat with us</div>
+        </a>
+        
+        <a class="hint--bounce hint--left hint--black primary-color-hover-important toolbox-icons" href="#" target="_blank" aria-label="Contact Us">
+            <!-- <i class="fab fa-facebook-messenger" style="color : #0B75FA";></i> -->
+            <img class="portable-link-svg" src="image/login.png">
+            <div class="toolbox-tooltip" style="right: 55px; margin-top: 7px;">Get Services</div>
+        </a>
+         
+    </div>
+</div>
+
+	</body>
+</html>
